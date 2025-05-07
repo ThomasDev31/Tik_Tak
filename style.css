@@ -1,0 +1,24 @@
+:root {
+	--background: #4E4C67;
+	--accent: #985F6F;
+}
+
+body {
+    background-color: var(--background);
+    box-sizing: border-box;
+    width:100%;
+}
+main {
+    width:60%;
+    margin: auto;
+    text-align: center;
+}
+canvas{
+    border: 3px solid var(--accent);
+    background-color: var(--background);
+    margin: auto;
+}
+header{
+    text-align: center;
+    margin-bottom: 30px;
+}
