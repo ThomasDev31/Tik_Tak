@@ -1,5 +1,5 @@
 ## Projet mené en collaboration avec :
 
-- **ChokoratoDev**
-- **ThomasDev31**
-- **Raph**
+- [@ChokoratoDev](https://github.com/ChokoratoDev)
+- [@ThomasDev31](https://github.com/ThomasDev31)
+- 
